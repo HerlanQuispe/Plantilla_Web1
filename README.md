@@ -1,1 +1,2 @@
-# Plantilla_Web1
+# Carrito-Compras-JavaScript
+ Carrito de compras con JavaScript y LocalStorage
